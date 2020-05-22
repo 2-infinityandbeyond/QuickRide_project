@@ -4,7 +4,7 @@ Initial page to add to a order- creates a order and keeps adding to same order t
 
 ![image](https://raw.githubusercontent.com/codevigilante69/QuickRide_project/master/Images/Image1.png)
 
-
+![image](https://user-images.githubusercontent.com/2787414/51083411-188d1b00-171a-11e9-9a25-f8b06f33053e.png)
 Can fill any value for a single product and it will be added
 As of now user id is always send as 1 to backend but it can be configured later if wanted
 
@@ -12,8 +12,6 @@ Search for the products work in table
 
 
 All the orders for user with id 1 can be seen at once in table
-
-
 
 
 Can also search for orders with a particular id to get the products in that order.
